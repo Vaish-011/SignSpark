@@ -72,5 +72,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## 👩‍💻 Developed By
 
 **Muskan Tomar**
-[LinkedIn](https://www.linkedin.com/in/muskan-tomar) | [GitHub](https://github.com/your-username)
+[LinkedIn](http://linkedin.com/in/muskan-tomar-1414962b6) | [GitHub](https://github.com/Vaish-011)
 
