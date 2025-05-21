@@ -63,6 +63,9 @@ signspark/
 └── README.md
 ```
 
+## 📷 Demo Video
+
+[SignSpark Demo](video/demo.mp4)
 
 ## 🤝 Contributing
 
